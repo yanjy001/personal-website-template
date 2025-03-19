@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "Yan Jingyuan"
+    "name": "Jingyuan Yan"
   },
   "nav": {
     "bio": "About",
@@ -10,7 +10,7 @@
     "contact": "Contact"
   },
   "bio": {
-    "name": "Yan Jingyuan",
+    "name": "Jingyuan Yan",
     "nameJp": "厳　靖園",
     "phd": "Docter of Engineering",
     "phdJp": "博士（工学）",
@@ -23,8 +23,9 @@
     "linkedin": "https://www.linkedin.com/in/jingyuan-yan-a6016b291/",
     "researchInterests": "Research Interests",
     "researchTags": [
-      "Mathematics",
-      "Physics"
+      "in situ microscopy",
+      "mechanical",
+      "ceramics"
     ]
   },
   "publications": {
