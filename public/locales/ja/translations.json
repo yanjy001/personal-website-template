@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "あなたの名前"
+    "name": "厳　靖園"
   },
   "nav": {
     "bio": "プロフィール",
@@ -10,21 +10,22 @@
     "contact": "連絡先"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
+    "name": "Yan Jingyuan",
+    "nameJp": "厳　靖園",
     "phd": "Ph.D.",
     "phdJp": "博士（工学）",
-    "position": "博士研究員",
+    "position": "特任研究員",
     "affiliation": "東京大学 総合研究機構",
-    "github": "https://github.com/yourusername",
-    "scholar": "https://scholar.google.com/citations?user=your-id",
-    "orcid": "https://orcid.org/0000-0000-0000-0000",
-    "researchmap": "https://researchmap.jp/yourusername",
-    "linkedin": "https://www.linkedin.com/in/yourusername/",
+    "github": null,
+    "scholar": "https://scholar.google.com/citations?user=OeQEfkEAAAAJ&hl=en&oi=ao",
+    "orcid": "https://orcid.org/0009-0008-7154-1919",
+    "researchmap": null,
+    "linkedin": "https://www.linkedin.com/in/jingyuan-yan-a6016b291/",
     "researchInterests": "研究興味",
     "researchTags": [
-      "数学",
-      "物理学"
+      "in situ microscopy",
+      "mechenical property",
+      "ceramics"
     ]
   },
   "publications": {
@@ -60,7 +61,7 @@
     "location": "所在地",
     "relatedLinks": "関連リンク",
     "email": "メールアドレス",
-    "emailAdress": "your.email[at]example.com",
+    "emailAdress": "yan@sigma.t.u-tokyo.ac.jp",
     "phone": "電話番号",
     "phoneNumber": "+81-3-5841-7689",
     "address": "住所",
