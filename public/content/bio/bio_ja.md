@@ -1,3 +1,3 @@
 ## 研究内容
 
-私の研究は透過電子顕微鏡であああすることです。
+I'm a material scientist and microscopist in ceramics. I'm interested in microscopic studies investigating the structure-property relationship among structural materials.
