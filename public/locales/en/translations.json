@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "Your Name"
+    "name": "Yan Jingyuan"
   },
   "nav": {
     "bio": "About",
@@ -10,17 +10,17 @@
     "contact": "Contact"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
-    "phd": "",
+    "name": "Yan Jingyuan",
+    "nameJp": "厳　靖園",
+    "phd": "Docter of Engineering",
     "phdJp": "博士（工学）",
-    "position": "Postdoctoral Researcher",
+    "position": "Project Researcher",
     "affiliation": "Institute of Engineering Innovation, The University of Tokyo",
-    "github": "https://github.com/yourusername",
-    "scholar": "https://scholar.google.com/citations?user=your-id",
-    "orcid": "https://orcid.org/0000-0000-0000-0000",
-    "researchmap": "https://researchmap.jp/yourusername",
-    "linkedin": "https://www.linkedin.com/in/yourusername/",
+    "github": null,
+    "scholar": "https://scholar.google.com/citations?user=OeQEfkEAAAAJ&hl=en&oi=ao",
+    "orcid": "https://orcid.org/0009-0008-7154-1919",
+    "researchmap": null,
+    "linkedin": "https://www.linkedin.com/in/jingyuan-yan-a6016b291/",
     "researchInterests": "Research Interests",
     "researchTags": [
       "Mathematics",
@@ -60,7 +60,7 @@
     "location": "Location",
     "relatedLinks": "Related Links",
     "email": "Email",
-    "emailAdress": "your.email[at]example.com",
+    "emailAdress": "yan[at]sigma.t.u-tokyo.ac.jp",
     "phone": "Phone",
     "phoneNumber": "+81-3-5841-7689",
     "address": "Address",
