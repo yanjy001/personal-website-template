@@ -1,0 +1,42 @@
+[
+  {
+    "id": "career-1",
+    "position": "B.Eng. in New Energy Material and Devices",
+    "organization": "Central South University",
+    "location": "Changsha, China",
+    "startDate": "2013",
+    "endDate": "2017",
+    "description": "",
+    "type": "education"
+  },
+  {
+    "id": "career-2",
+    "position": "M.Eng. in Materials Science and Engineering",
+    "organization": "Zhejiang University",
+    "location": "Hangzhou, China",
+    "startDate": "2017",
+    "endDate": "2020",
+    "description": "",
+    "type": "education"
+  },
+  {
+    "id": "career-3",
+    "position": "Ph.D. in Materials Engineering",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2020",
+    "endDate": "2024",
+    "description": "",
+    "type": "education"
+  },
+  {
+    "id": "career-4",
+    "position": "Project Researcher",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2024",
+    "endDate": null,
+    "description": "",
+    "type": "work"
+  }
+]

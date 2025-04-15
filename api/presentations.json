@@ -1,0 +1,72 @@
+[
+  {
+    "id": "presentation-6g2ejkuqi",
+    "title": "Microscopic studies of cracking process at alumina grain boundaries",
+    "titleJa": "Microscopic studies of cracking process at alumina grain boundaries",
+    "speakers": "Jingyuan Yan, Kondo Shun, Bin Feng, Naoya Shibata, Yuichi Ikuhara",
+    "speakersJa": "Jingyuan Yan, Kondo Shun, Bin Feng, Naoya Shibata, Yuichi Ikuhara",
+    "conference": "Gordon Research Conference",
+    "conferenceJa": "Gordon Research Conference",
+    "date": "2024-08-05",
+    "year": "2024",
+    "place": "South Hadley",
+    "placeJa": "South Hadley",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-irod33l7w",
+    "title": "Atomistic investigation of grain boundary fracture in alumina",
+    "titleJa": "Atomistic investigation of grain boundary fracture in alumina",
+    "speakers": "Jingyuan Yan, Kondo Shun, Bin Feng, Naoya Shibata, Yuichi Ikuhara",
+    "speakersJa": "Jingyuan Yan, Kondo Shun, Bin Feng, Naoya Shibata, Yuichi Ikuhara",
+    "conference": "iib2024",
+    "conferenceJa": "iib2024",
+    "date": "2024-07-10",
+    "year": "2024",
+    "place": "Beijing",
+    "placeJa": "Beijing",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-5gdqmbqr2",
+    "title": "In situ TEM study of the grain boundary crack behavior in Al2O3",
+    "titleJa": "In situ TEM study of the grain boundary crack behavior in Al2O3",
+    "speakers": "Jingyuan Yan, Kondo Shun, Bin Feng, Naoya Shibata, Yuichi Ikuhara",
+    "speakersJa": "Jingyuan Yan, Kondo Shun, Bin Feng, Naoya Shibata, Yuichi Ikuhara",
+    "conference": "IAMNano 2023",
+    "conferenceJa": "IAMNano 2023",
+    "date": "2023-06-30",
+    "year": "2023",
+    "place": "Matsue",
+    "placeJa": "松江市",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-cc9mw1gn6",
+    "title": "Nanoscopic investigation of the crack propogation in Σ13 Al2O3 grain boundary",
+    "titleJa": "Nanoscopic investigation of the crack propogation in Σ13 Al2O3 grain boundary",
+    "speakers": "Jingyuan Yan, Kondo Shun, Bin Feng, Naoya Shibata, Yuichi Ikuhara",
+    "speakersJa": "Jingyuan Yan, Kondo Shun, Bin Feng, Naoya Shibata, Yuichi Ikuhara",
+    "conference": "JSM Meeting",
+    "conferenceJa": "第79回日本顕微鏡学会学術講演会",
+    "date": "2023-06-26",
+    "year": "2023",
+    "place": "Matsue",
+    "placeJa": "松江市",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-up67gvqcj",
+    "title": "Phonon measuremnet of Al2O3 grain boundaries using STEM-EELS",
+    "titleJa": "Phonon measuremnet of Al2O3 grain boundaries using STEM-EELS",
+    "speakers": "Jingyuan Yan, Bin Feng, Naoya Shibata, Peng Gao, Yuichi Ikuhara",
+    "speakersJa": "Jingyuan Yan, Bin Feng, Naoya Shibata, Peng Gao, Yuichi Ikuhara",
+    "conference": "JIM Autumn Meeting",
+    "conferenceJa": "日本金属学会2022年秋期講演大会",
+    "date": "2022-09-21",
+    "year": "2022",
+    "place": "Fukuoka",
+    "placeJa": "福岡市",
+    "isInvited": false
+  }
+]

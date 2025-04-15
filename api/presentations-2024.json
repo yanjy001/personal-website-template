@@ -1,0 +1,30 @@
+[
+  {
+    "id": "presentation-6g2ejkuqi",
+    "title": "Microscopic studies of cracking process at alumina grain boundaries",
+    "titleJa": "Microscopic studies of cracking process at alumina grain boundaries",
+    "speakers": "Jingyuan Yan, Kondo Shun, Bin Feng, Naoya Shibata, Yuichi Ikuhara",
+    "speakersJa": "Jingyuan Yan, Kondo Shun, Bin Feng, Naoya Shibata, Yuichi Ikuhara",
+    "conference": "Gordon Research Conference",
+    "conferenceJa": "Gordon Research Conference",
+    "date": "2024-08-05",
+    "year": "2024",
+    "place": "South Hadley",
+    "placeJa": "South Hadley",
+    "isInvited": false
+  },
+  {
+    "id": "presentation-irod33l7w",
+    "title": "Atomistic investigation of grain boundary fracture in alumina",
+    "titleJa": "Atomistic investigation of grain boundary fracture in alumina",
+    "speakers": "Jingyuan Yan, Kondo Shun, Bin Feng, Naoya Shibata, Yuichi Ikuhara",
+    "speakersJa": "Jingyuan Yan, Kondo Shun, Bin Feng, Naoya Shibata, Yuichi Ikuhara",
+    "conference": "iib2024",
+    "conferenceJa": "iib2024",
+    "date": "2024-07-10",
+    "year": "2024",
+    "place": "Beijing",
+    "placeJa": "Beijing",
+    "isInvited": false
+  }
+]
